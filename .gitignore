@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment Variables
+.env
+
+# Build/Production directories
+build/
+dist/
+
+# Coverage directory used by testing frameworks
+coverage/
+
+# .next (for Next.js projects)
+.next/
+
+# React Native files (if applicable)
+.expo/
+.expo-shared/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Ignore virtual environment (if any)
+venv/
+
+# CSV and Excel files
+*.csv
+*.xlsx
